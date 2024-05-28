@@ -2,4 +2,4 @@
 
 Learning Web Development 
 
-Goals: Making a profolio website for me and Tam
+Goals: Making a profolio website for myself
